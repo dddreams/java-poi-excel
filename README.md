@@ -1,8 +1,5 @@
----
-title: Java Poi 操作 Excel
----
 
-## 简介
+## Java Poi 操作 Excel
 利用 Java Poi API 操作 Excel ，项目中经常会用到导入导出的功能，作为总结，分享在 Github 上。
 ## 环境 
 JDK 1.8  
